@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio2
+namespace Ejercicio1
 {
     internal class Program
     {
@@ -17,10 +17,10 @@ namespace Ejercicio2
             {
                 Console.WriteLine("El numero es par");
             }
-            a = int.Parse(Console.ReadLine());
             if (a % 2 == 1)
             {
                 Console.WriteLine("El numero es impar");
-            }
+            } 
+        }
     }
 }
