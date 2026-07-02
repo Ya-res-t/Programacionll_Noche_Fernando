@@ -1,0 +1,10 @@
+PREGUNTAS TEÓRICAS 
+1. Pregunta 1: Explique detalladamente cuál es la diferencia principal entre un bucle while 
+y un bucle do-while. Proporcione un escenario breve donde sea estrictamente necesario 
+o más óptimo usar do-while. 
+R.- 
+2. Pregunta 2: Si se declara una variable dentro del bloque de una estructura condicional 
+if, ¿es posible acceder y modificar el valor de esa variable fuera de dicho bloque if (por 
+ejemplo, después de su cierre })? Justifique su respuesta explicando el concepto de 
+"ámbito o alcance de una variable" (Variable Scope).
+R.- No es posible modificar la variable, por que en el alcance de la condicional if solo se queda hasta donde alcance el bloque, luego la condicinal fuera de dicho bloque ya no se puede modificar.
